@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 🌱 My [yuque](https://www.yuque.com/alfxjx) notes when my blog server changes 
 
-⚡ [learning](https://bitable.feishu.cn/appSphPpKDjBUgcN0MphBqQtsCC?from=logout&table=tblVVajif8x7yRwU&view=vew5uodacp)and [gist](https://gist.github.com/Alfxjx)
+⚡ [learning](https://bitable.feishu.cn/appSphPpKDjBUgcN0MphBqQtsCC?from=logout&table=tblVVajif8x7yRwU&view=vew5uodacp) and [gist](https://gist.github.com/Alfxjx)
