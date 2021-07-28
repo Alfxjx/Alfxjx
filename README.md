@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Frontend;
+🔭 I’m working on Frontend;
 
 📫 How to reach me: [http://www.abandon.work](http://www.abandon.work) or [Home Page](https://alfxjx.github.io/)
 
