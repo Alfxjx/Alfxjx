@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🔭 I’m working on Frontend;
 
-📫 How to reach me: [Home Page](https://alfxjx.github.io/)
+📫 How to reach me: [Home Page](https://alfxjx.github.io/) or [abandon.work](https://www.abandon.work/)
 
 🌱 My [yuque](https://www.yuque.com/alfxjx) notes when my blog server changes 
 
