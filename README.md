@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 ⚡ [learning](https://bitable.feishu.cn/appSphPpKDjBUgcN0MphBqQtsCC?from=logout&table=tblVVajif8x7yRwU&view=vew5uodacp) and [gist](https://gist.github.com/Alfxjx)
 
-[water-drinker](https://weldingboys.github.io/water-drinker/water)
+[water-drinker](https://weldingboys.vercel.app/water)
+
+[ <-- avatar on the opensea.io](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/29433830147332339639115006737701029562687338063458078299874716625823015632897)
 
 <img src="https://github.com/alfxjx/alfxjx/blob/main/images/stat.svg" alt="Alfxjx WakaTime Activity"/>
 
