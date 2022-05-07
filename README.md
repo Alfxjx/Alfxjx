@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m working on Frontend;
+🔭  I’m currently a frontend developer;
 
-📫 How to reach me: [Home Page](https://alfxjx.github.io/) or [abandon.work](https://www.abandon.work/)
+📫  How to reach me: [abandon.work](https://www.abandon.work/)
 
-🌱 My [yuque](https://www.yuque.com/alfxjx) notes when my blog server changes 
+🌱  My [yuque](https://www.yuque.com/alfxjx) notes small memos for my own.
 
-⚡ [learning](https://bitable.feishu.cn/appSphPpKDjBUgcN0MphBqQtsCC?from=logout&table=tblVVajif8x7yRwU&view=vew5uodacp) and [gist](https://gist.github.com/Alfxjx)
+🥤 [water-drinker](https://weldingboys.vercel.app/water) help u count the cups of water for a healthy day.
 
-[water-drinker](https://weldingboys.vercel.app/water)
+🕑 [qlock-web](https://qlock-web.vercel.app) is a cool web clock app
 
-[the opensea.io](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/29433830147332339639115006737701029562687338063458078299874716625823015632897)
+🌊 [the opensea.io](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/29433830147332339639115006737701029562687338063458078299874716625823015632897) collects my paintings...
 
 <img src="https://github.com/alfxjx/alfxjx/blob/main/images/stat.svg" alt="Alfxjx WakaTime Activity"/>
 
