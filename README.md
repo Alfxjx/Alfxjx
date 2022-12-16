@@ -28,5 +28,6 @@ Here are some ideas to get you started:
 
 🌊  [the opensea.io](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/29433830147332339639115006737701029562687338063458078299874716625823015632897) collects my paintings...
 
-<img src="https://github.com/alfxjx/alfxjx/blob/main/images/stat.svg" alt="Alfxjx WakaTime Activity"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
