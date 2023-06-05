@@ -30,8 +30,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```text
-No activity tracked
+```txt
+JSON         8 mins          ███████████████░░░░░░░░░░   59.58 %
+TypeScript   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
+YAML         2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
+Markdown     0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
 ```
 
 <!--END_SECTION:waka-->
