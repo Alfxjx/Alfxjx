@@ -31,7 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart         2 hrs 50 mins   █████████████▓░░░░░░░░░░░   54.28 %
+TypeScript   1 hr 31 mins    ███████▒░░░░░░░░░░░░░░░░░   29.22 %
+HTML         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Less         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+YAML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 <!--END_SECTION:waka-->
