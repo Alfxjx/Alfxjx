@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 5 hrs 20 mins   ██████████▓░░░░░░░░░░░░░░   42.63 %
-JSON                       2 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
-Dart                       1 hr 38 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
-HTML                       1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
-Markdown                   36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+TypeScript        5 hrs 1 min     █████████▓░░░░░░░░░░░░░░░   38.47 %
+Dart              2 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   19.84 %
+JSON              1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+HTML              55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+YAML              37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
 ```
 
 <!--END_SECTION:waka-->
