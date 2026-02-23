@@ -31,11 +31,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         5 hrs 25 mins   ███████████████░░░░░░░░░░   59.53 %
-TypeScript   1 hr 45 mins    █████░░░░░░░░░░░░░░░░░░░░   19.36 %
-Markdown     42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-JavaScript   30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-HTML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+TypeScript   1 min                 █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
