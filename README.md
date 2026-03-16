@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 25 mins          █████████░░░░░░░░░░░░░░░░   35.86 %
-Other        1 hr 15 mins          ████████░░░░░░░░░░░░░░░░░   31.62 %
-TypeScript   46 mins               █████░░░░░░░░░░░░░░░░░░░░   19.71 %
-Markdown     26 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-HTML         3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+TypeScript   2 hrs 35 mins         ███████████▓░░░░░░░░░░░░░   46.80 %
+Markdown     57 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
+Other        52 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
+HTML         35 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+JSON         20 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
 ```
 
 <!--END_SECTION:waka-->
