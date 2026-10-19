@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            2 hrs 45 mins         ███████████▒░░░░░░░░░░░░░   45.11 %
-Markdown          54 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
-XML               51 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-Other             49 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
-Python            12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Markdown       13 hrs 2 mins         █████████▒░░░░░░░░░░░░░░░   36.92 %
+Other          6 hrs 1 min           ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
+TypeScript     5 hrs 55 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
+Rust           1 hr 58 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+PowerShell     1 hr 31 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 ```
 
 <!--END_SECTION:waka-->
